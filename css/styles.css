@@ -1,0 +1,15 @@
+.btn {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+form {
+  background-color: #fff2e5;
+  border: 1px solid #ffbf80;
+  border-radius: 5px;
+}
+
+#quote {
+  display: none;
+}
